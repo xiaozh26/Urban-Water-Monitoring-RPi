@@ -1,0 +1,5 @@
+RPi.GPIO
+smbus
+crcmod
+pyserial
+matplotlib
